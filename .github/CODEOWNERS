@@ -6,4 +6,4 @@ docs/user-guide/kubernetes.md       @containous/kubernetes
 docs/user-guide/marathon.md         @containous/marathon
 docs/user-guide/swarm.md            @containous/docker
 docs/user-guide/swarm-mode.md @containous/docker
-*.md	 @containous/camembert
+*.md	@containous/morbier 
