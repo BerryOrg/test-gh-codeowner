@@ -1,4 +1,4 @@
-provider/kubernetes/**  @containous/kubernetes @ldez @juliens @containous/traefik/kubernetes
+provider/kubernetes/**  @containous/kubernetes @juliens @ldez
 provider/rancher/**     @containous/rancher
 provider/marathon/**    @containous/marathon
 provider/docker/**      @containous/docker
