@@ -1,4 +1,3 @@
-*     @BerryOrg/core
 provider/kubernetes/*   @BerryOrg/test @cmrberry @berrydanielt
 provider/rancher/*      @BerryOrg/test2
 provider/marathon/*     @BerryOrg/lots-of-teams
