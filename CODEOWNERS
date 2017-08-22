@@ -7,4 +7,4 @@ docs/user-guide/kubernetes.md     @BerryOrg/test
 docs/user-guide/marathon.md       @BerryOrg/lots-of-teams
 docs/user-guide/swarm.md          @BerryOrg/more-teams
 docs/user-guide/swarm-mode.md     @BerryOrg/more-teams
-*.md                    @BerryOrg/nested 
+*.md                    @BerryOrg/core 
